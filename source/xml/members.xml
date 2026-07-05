@@ -28,7 +28,7 @@
 		<profile>
 			<image src="pictures/member_micce_andersson.jpg"></image>
 			<birthdate>1978-11-20</birthdate>
-			<location>göteborg, sweden</location>
+			<location>gÃ¶teborg, sweden</location>
 			<equipment>
 				customized fender strat, ibanez acoustic guitar, yamaha bass, yamaha sy35 and polish sucky violin
 			</equipment>
@@ -43,7 +43,7 @@
 		<role name="guitars"></role>
 		<profile>
 			<image src="pictures/member_fredrik_johansson.jpg"></image>
-			<location>kungälv, sweden</location>
+			<location>kungÃ¤lv, sweden</location>
 			<trivia>
 				The Johansson brothers joined the band during a rather unstable period as a final attempt at 
 				keeping the band as a live performing act. They did well but couldn't stop the band from
@@ -56,7 +56,7 @@
 		<role name="drums"></role>
 		<profile>
 			<image src="pictures/member_rikard_johansson.jpg"></image>
-			<location>kungälv, sweden</location>
+			<location>kungÃ¤lv, sweden</location>
 			<trivia>
 				The Johansson brothers and especially Rikard was probably the first to introduce the idea of
 				blending elements of alternative music with a dark edge into the band like for instance
@@ -70,7 +70,7 @@
 		<role name="guitars"></role>
 		<profile>
 			<image src="pictures/member_martin_claesson.jpg"></image>
-			<location>göteborg, sweden</location>
+			<location>gÃ¶teborg, sweden</location>
 			<trivia>
 				With Martin as a third member came the idea of starting to play live, something that later on was
 				abandoned for various reasons. Martin also contributed with some great music and lyrics for the
@@ -78,7 +78,7 @@
 			</trivia>
 		</profile>
 	</member>
-	<member name="Robert Mårtensson" type="past" begin="2000" end="2000">
+	<member name="Robert MÃ¥rtensson" type="past" begin="2000" end="2000">
 		<role name="bass"></role>
 		<profile>
 			<image src="pictures/member_robert_martensson.jpg"></image>
