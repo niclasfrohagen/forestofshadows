@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="ISO8859-1" ?>
+<members>
+	<member name="Niclas Frohagen" type="current" begin="1997">
+		<role name="songwriting"></role>
+		<role name="all instruments and vocals"></role>
+		<profile>
+			<image src="pictures/member_niclas_frohagen.jpg"></image>
+			<birthdate>1975-09-11</birthdate>
+			<location>stockholm, sweden</location>
+			<equipment>
+				jj labs microphone, fender heartfield electric guitar, vester acoustic guitar, washburn XB-100 bass,
+				west-african djembe and august hoffman piano
+			</equipment>
+			<trivia>
+				Founding and currently only member. 
+			</trivia>
+			<band name="ningizzia" begin="1997" link="http://www.ningizzia.com"></band>
+			<band name="shubend" begin="1999" end="2004" link="http://shubend.genesisofpain.com/"></band>
+		</profile>
+	</member>
+	<member name="Micce Andersson" type="past" begin="1998" end="2002">
+		<role name="songwriting"></role>
+		<role name="guitars"></role>
+		<role name="bass"></role>
+		<role name="piano/keyboard"></role>
+		<role name="violin"></role>
+		<role name="drums"></role>
+		<profile>
+			<image src="pictures/member_micce_andersson.jpg"></image>
+			<birthdate>1978-11-20</birthdate>
+			<location>göteborg, sweden</location>
+			<equipment>
+				customized fender strat, ibanez acoustic guitar, yamaha bass, yamaha sy35 and polish sucky violin
+			</equipment>
+			<trivia>
+				Micce was a key character in the history of the band and transformed the previously unfocused and
+				complex musical vision to something more simplistic and comprehendable. This formed the new
+				foundation of all later music produced by the band even after his departure.
+			</trivia>
+		</profile>
+	</member>
+	<member name="Fredrik Johansson" type="past" begin="2000" end="2000">
+		<role name="guitars"></role>
+		<profile>
+			<image src="pictures/member_fredrik_johansson.jpg"></image>
+			<location>kungälv, sweden</location>
+			<trivia>
+				The Johansson brothers joined the band during a rather unstable period as a final attempt at 
+				keeping the band as a live performing act. They did well but couldn't stop the band from
+				transforming into a studio band, a band that didn't allow more members than Niclas and Micce.
+			</trivia>
+			<band name="hawthorn"></band>
+		</profile>
+	</member>
+	<member name="Richard Johansson" type="past" begin="2000" end="2000">
+		<role name="drums"></role>
+		<profile>
+			<image src="pictures/member_rikard_johansson.jpg"></image>
+			<location>kungälv, sweden</location>
+			<trivia>
+				The Johansson brothers and especially Rikard was probably the first to introduce the idea of
+				blending elements of alternative music with a dark edge into the band like for instance
+				portishead. This later on became another signum for the band and a way to differ from the
+				mainstream.
+			</trivia>
+			<band name="hawthorn"></band>
+		</profile>
+	</member>
+	<member name="Martin Claeson" type="past" begin="1999" end="2000">
+		<role name="guitars"></role>
+		<profile>
+			<image src="pictures/member_martin_claesson.jpg"></image>
+			<location>göteborg, sweden</location>
+			<trivia>
+				With Martin as a third member came the idea of starting to play live, something that later on was
+				abandoned for various reasons. Martin also contributed with some great music and lyrics for the
+				mCD "where dreams turn to dust" and thus left his mark in the history of the band.
+			</trivia>
+		</profile>
+	</member>
+	<member name="Robert Mårtensson" type="past" begin="2000" end="2000">
+		<role name="bass"></role>
+		<profile>
+			<image src="pictures/member_robert_martensson.jpg"></image>
+			<location>unknown</location>
+			<trivia>
+				Robert became quite infamous for not showing up at rehearsals which later on ended his short career
+				in the band. He also contributed to the less successfull and final live performance at chalmers in
+				2000.
+			</trivia>
+		</profile>
+	</member>
+	<member name="Tommy Ryberg" type="past" begin="1999" end="2000">
+		<role name="drums"></role>
+		<profile>
+			<location>unknown</location>
+			<trivia>
+				Tommy had double-pedals and thus we thought he might be a great drummer. Unfortunatelly, we never
+				saw him using these. This, his background as a drummer in a ska-band, the fact that he was really
+				lazy and last but not least his lack of motivation limited his career to a few rehearsals.
+			</trivia>
+		</profile>
+	</member>
+	<member name="Johan Svensson" type="past" begin="1998" end="1998">
+		<role name="guitar"></role>
+		<profile>
+			<location>unknown</location>
+			<trivia>
+				With Johan as a second member came the first attempt at creating a real band based on the rough
+				ideas and visions that constituted the core of forest of shadows at that stage. There was some
+				occasional jamming but it never really resulted in anything.
+			</trivia>
+		</profile>
+	</member>
+	<member name="Martin Olsson" type="session">
+		<role name="bass"></role>
+		<profile>
+			<location>unknown</location>
+			<trivia>
+				Martin was (is?) a friend of Micce and a really good bassist. When we started planning our first
+				gig he came up as a potential bass-player. Since he wasn't into metal, at all, he never wasn't
+				intended as more than a session-member. The day before this historical first gig he broke his foot
+				and really messed up everything. In the 11th hour Martin Petterson (ex Shubend) appeared and saved the
+				situation.
+			</trivia>
+		</profile>
+	</member>
+	<member name="Martin Pettersson" type="session">
+		<role name="bass"></role>
+		<profile>
+			<location>unknown</location>
+			<image src="pictures/member_martin_pettersson.jpg"></image>
+			<trivia>
+				When we lost our session bassist to a foot injury the day before our first gig was to take place
+				we thought that all hope was lost. After having ideas of skipping the bass and just make the guitars
+				more bassy we phoned Martin who showed up some hour later. We rehearsed unplugged for some hour
+				and most likely Martin didn't really learn the notes. Still, the gig took place and nobody commented
+				on the bass. Either he played ok or the rest of us played really bad.
+			</trivia>
+			<band name="shubend" begin="2000" end="2002" link="http://www.metal-archives.com/band.php?id=12983"></band>
+		</profile>
+	</member>
+	<member name="Anna Ekblad" type="session">
+		<role name="flute"></role>
+		<profile>
+			<location>unknown</location>
+			<trivia>
+				Just having a violin to complement the sound wasn't good enough for us so we contacted Anna, a
+				friend of Micce, and asked her if she wanted to add some flute. She was very happy about it and
+				pretty much improvised the entire intro of "eternal autum". This intro-piece definatelly added
+				to the magic of the mCD "where dreams turn to dust".
+			</trivia>
+			<band name="ningizzia (session musican)" link="http://www.ningizzia.com"></band>
+		</profile>
+	</member>
+	<member name="Oskar Nathorst" type="session">
+		<role name="drums"></role>
+		<profile>
+			<location>unknown</location>
+			<trivia>
+				We really needed a drummer and since we had given up hope to find a fulltime member after the
+				failures with Tommy we thoght we might as well go for a session drummer. Oskar, a friend of Micce
+				was definatelly good enough and we rehearsed with him a couple of times. While this was happening
+				Martin C was gradually leaving the band and so was our hope of remaining a live act. I guess that
+				also resulted in that we stopped rehearsing with Oskar. It was a strange time.
+			</trivia>
+			<band name="stabwound" link="http://www.metal-archives.com/band.php?id=4587"></band>
+			<band name="vinterblod"></band>
+		</profile>
+	</member>
+</members>

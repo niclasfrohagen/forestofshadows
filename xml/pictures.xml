@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="ISO8859-1" ?>
+<pictures>
+	<session name="photo-session - 2008" photographer="susanna wanander frohagen">
+		<picture src="pictures/photo_session_05_picture01.jpg"
+				 small="pictures/photo_session_05_picture01_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_05_picture02.jpg"
+				 small="pictures/photo_session_05_picture02_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_05_picture03.jpg"
+				 small="pictures/photo_session_05_picture03_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_05_picture04.jpg"
+				 small="pictures/photo_session_05_picture04_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_05_picture05.jpg"
+				 small="pictures/photo_session_05_picture05_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_05_picture06.jpg"
+				 small="pictures/photo_session_05_picture06_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_05_picture07.jpg"
+				 small="pictures/photo_session_05_picture07_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_05_picture08.jpg"
+				 small="pictures/photo_session_05_picture08_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_05_picture09.jpg"
+				 small="pictures/photo_session_05_picture09_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_05_picture10.jpg"
+				 small="pictures/photo_session_05_picture10_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_05_picture11.jpg"
+				 small="pictures/photo_session_05_picture11_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_05_picture12.jpg"
+				 small="pictures/photo_session_05_picture12_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_05_picture13.jpg"
+				 small="pictures/photo_session_05_picture13_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_05_picture14.jpg"
+				 small="pictures/photo_session_05_picture14_small.jpg">
+		</picture>
+	</session>
+	<session name="photo-session - 2002" photographer="jenny frohagen">
+		<picture src="pictures/photo_session_04_picture01.jpg"
+				 small="pictures/photo_session_04_picture01_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_04_picture02.jpg"
+				 small="pictures/photo_session_04_picture02_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_04_picture03.jpg"
+				 small="pictures/photo_session_04_picture03_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_04_picture04.jpg"
+				 small="pictures/photo_session_04_picture04_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_04_picture05.jpg"
+				 small="pictures/photo_session_04_picture05_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_04_picture06.jpg"
+				 small="pictures/photo_session_04_picture06_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_04_picture07.jpg"
+				 small="pictures/photo_session_04_picture07_small.jpg">
+		</picture>
+	</session>
+	<session name="live at chalmers - 2000" photographer="jenny frohagen">
+		<picture src="pictures/photo_session_03_picture01.jpg"
+				 small="pictures/photo_session_03_picture01_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_03_picture02.jpg"
+				 small="pictures/photo_session_03_picture02_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_03_picture03.jpg"
+				 small="pictures/photo_session_03_picture03_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_03_picture04.jpg"
+				 small="pictures/photo_session_03_picture04_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_03_picture05.jpg"
+				 small="pictures/photo_session_03_picture05_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_03_picture06.jpg"
+				 small="pictures/photo_session_03_picture06_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_03_picture07.jpg"
+				 small="pictures/photo_session_03_picture07_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_03_picture08.jpg"
+				 small="pictures/photo_session_03_picture08_small.jpg">
+		</picture>
+	</session>
+	<session name="live at chalmers - 2000" photographer="unknown">
+		<picture src="pictures/photo_session_02_picture01.jpg"
+				 small="pictures/photo_session_02_picture01_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_02_picture02.jpg"
+				 small="pictures/photo_session_02_picture02_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_02_picture03.jpg"
+				 small="pictures/photo_session_02_picture03_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_02_picture04.jpg"
+				 small="pictures/photo_session_02_picture04_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_02_picture05.jpg"
+				 small="pictures/photo_session_02_picture05_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_02_picture06.jpg"
+				 small="pictures/photo_session_02_picture06_small.jpg">
+		</picture>
+	</session>
+	<session name="photo-session - 1999" photographer="sandra sundelin">
+		<picture src="pictures/photo_session_01_picture01.jpg"
+				 small="pictures/photo_session_01_picture01_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_01_picture02.jpg"
+				 small="pictures/photo_session_01_picture02_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_01_picture03.jpg"
+				 small="pictures/photo_session_01_picture03_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_01_picture04.jpg"
+				 small="pictures/photo_session_01_picture04_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_01_picture05.jpg"
+				 small="pictures/photo_session_01_picture05_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_01_picture06.jpg"
+				 small="pictures/photo_session_01_picture06_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_01_picture07.jpg"
+				 small="pictures/photo_session_01_picture07_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_01_picture08.jpg"
+				 small="pictures/photo_session_01_picture08_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_01_picture10.jpg"
+				 small="pictures/photo_session_01_picture10_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_01_picture11.jpg"
+				 small="pictures/photo_session_01_picture11_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_01_picture12.jpg"
+				 small="pictures/photo_session_01_picture12_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_01_picture13.jpg"
+				 small="pictures/photo_session_01_picture13_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_01_picture14a.jpg"
+				 small="pictures/photo_session_01_picture14a_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_01_picture14b.jpg"
+				 small="pictures/photo_session_01_picture14b_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_01_picture15.jpg"
+				 small="pictures/photo_session_01_picture15_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_01_picture16.jpg"
+				 small="pictures/photo_session_01_picture16_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_01_picture17.jpg"
+				 small="pictures/photo_session_01_picture17_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_01_picture19.jpg"
+				 small="pictures/photo_session_01_picture19_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_01_picture20.jpg"
+				 small="pictures/photo_session_01_picture20_small.jpg">
+		</picture>
+		<picture src="pictures/photo_session_01_picture21.jpg"
+				 small="pictures/photo_session_01_picture21_small.jpg">
+		</picture>
+	</session>
+</pictures>

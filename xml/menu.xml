@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO8859-1" ?>
+<menu_item name="home" link="frame_center_right.html">
+	<menu_item name="news" link="news.html">
+		<menu_item name="band" link="news.html"></menu_item>
+		<menu_item name="site" link="news_site.html"></menu_item>
+	</menu_item>
+	<menu_item name="biography" link="bio_history.html">
+		<menu_item name="history" link="bio_history.html">
+			<window name="chapter 00" link="bio_history.html?id=0"></window>
+			<window name="chapter 01" link="bio_history.html?id=1"></window>
+			<window name="chapter 02" link="bio_history.html?id=2"></window>
+			<window name="chapter 03" link="bio_history.html?id=3"></window>
+			<window name="chapter 04" link="bio_history.html?id=4"></window>
+			<window name="chapter 05" link="bio_history.html?id=5"></window>
+			<window name="chapter 06" link="bio_history.html?id=6"></window>
+			<window name="chapter 07" link="bio_history.html?id=7"></window>
+			<window name="chapter 08" link="bio_history.html?id=8"></window>
+			<window name="chapter 09" link="bio_history.html?id=9"></window>
+			<window name="chapter 10" link="bio_history.html?id=10"></window>
+			<window name="chapter 11" link="bio_history.html?id=11"></window>
+			<window name="chapter 12" link="bio_history.html?id=12"></window>
+			<window name="chapter 13" link="bio_history.html?id=13"></window>
+			<window name="chapter 14" link="bio_history.html?id=14"></window>
+			<window name="chapter 15" link="bio_history.html?id=15"></window>
+			<window name="chapter 16" link="bio_history.html?id=16"></window>
+			<window name="chapter 17" link="bio_history.html?id=17"></window>
+			<window name="chapter 18" link="bio_history.html?id=18"></window>
+			<window name="chapter 19" link="bio_history.html?id=19"></window>
+			<window name="chapter 20" link="bio_history.html?id=20"></window>
+			<window name="chapter 21" link="bio_history.html?id=21"></window>
+		</menu_item>
+		<menu_item name="members" link="bio_members.html">
+			<window name="niclas frohagen" link="bio_members.html?id=0"></window>
+			<window name="micce andersson" link="bio_members.html?id=1"></window>
+			<window name="fredrik johansson" link="bio_members.html?id=2"></window>
+			<window name="richard johansson" link="bio_members.html?id=3"></window>
+			<window name="martin petterson" link="bio_members.html?id=9"></window>
+			<window name="anna ekblad" link="bio_members.html?id=10"></window>
+			<window name="oskar nathorst" link="bio_members.html?id=11"></window>
+		</menu_item>
+		<menu_item name="pictures" link="bio_pictures.html">
+			<window name="photo-session 2002" link="bio_pictures.html?session=0"></window>
+			<window name="live at chalmers - 2000" link="bio_pictures.html?session=1"></window>
+			<window name="live at chalmers - 2000" link="bio_pictures.html?session=2"></window>
+			<window name="photo-session 1999" link="bio_pictures.html?session=3"></window>
+		</menu_item>
+	</menu_item>
+	<menu_item name="press" link="press_reviews.html">
+		<menu_item name="reviews" link="press_reviews.html"></menu_item>
+		<menu_item name="interviews" link="press_interviews.html"></menu_item>
+	</menu_item>
+	<menu_item name="discography" link="discography.html">
+		<menu_item name="discography" link="discography.html">
+			<window name="six waves of woe" link="discography.html?album=0"></window>
+			<window name="december songs (a tribute to katatonia)" link="discography.html?album=1"></window>
+			<window name="where dreams turn to dust (re-issue)" link="discography.html?album=2"></window>
+			<window name="departure (russian press)" link="discography.html?album=3"></window>
+			<window name="departure" link="discography.html?album=4"></window>
+			<window name="conquest for the empire" link="discography.html?album=5"></window>
+			<window name="where dreams turn to dust" link="discography.html?album=6"></window>
+			<window name="where dreams turn to dust (demo)" link="discography.html?album=7"></window>
+			<window name="promotion-cd 2000 (mp3.com)" link="discography.html?album=8"></window>
+			<window name="promotion-cd 2000" link="discography.html?album=9"></window>
+			<window name="promotion-cd 1999" link="discography.html?album=10"></window>
+			<window name="the silent cry" link="discography.html?album=11"></window>
+			<window name="under the dying sun" link="discography.html?album=12"></window>
+		</menu_item>
+	</menu_item>
+	<menu_item name="contact" link="contact_band.html">
+		<menu_item name="band" link="contact_band.html"></menu_item>
+		<menu_item name="labels" link="contact_labels.html"></menu_item>
+	</menu_item>
+</menu_item>
